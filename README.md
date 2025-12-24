@@ -6,6 +6,10 @@ Este proyecto es una prueba técnica desarrollada para **Qamarero**. El objetivo
 
 La aplicación simula un entorno de TPV donde se gestionan mesas y pedidos. La funcionalidad central se enfoca en las diferentes estrategias para dividir y saldar una cuenta, con especial atención a la experiencia de usuario en dispositivos móviles.
 
+### 🚀 Demo en Vivo
+
+Puedes probar la aplicación directamente en: **[https://qamarero-prueba-tecnica.vercel.app/](https://qamarero-prueba-tecnica.vercel.app/)**
+
 ### Funcionalidades Implementadas
 
 #### 1. Gestión de Mesas
